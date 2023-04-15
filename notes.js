@@ -12,8 +12,8 @@
 
 // ! CSS Selectors
 //*   a , b    Multiple Element Selector 
-//*   a b      Descendent Selector 
-//*   a > b    Child Selector 
+//*   a b      Descendent Selector ( selects all childrens )
+//*   a > b    Child Selector ( immediate children/ direct children )
 //*   a + b    Adjacent Selector 
 //*   [ a=b ]  Attribute Selector 
 //*   a:b      Pseudoclass Selector 
