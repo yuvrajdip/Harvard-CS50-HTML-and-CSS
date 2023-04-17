@@ -18,3 +18,17 @@
 //*   [ a=b ]  Attribute Selector 
 //*   a:b      Pseudoclass Selector 
 //*   a::b     Pseudoelement Selector 
+
+
+//! Grid properties
+//* display: grid
+//* row-gap : means gap between rows in grid 
+//* col-gap : means gap between cols in grid layout
+//* grid-template-column
+//* grid-template-area
+//* 1fr , 2fr ...auto property
+
+
+//! flex
+//* display:flex
+//* flex-wrap:flex 
